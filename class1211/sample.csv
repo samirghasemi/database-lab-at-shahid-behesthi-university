@@ -1,0 +1,11 @@
+last_name , first_name, birth ,death, gender
+"Alavi", "Akbar" , "1990-11-12" , null ,"male"
+"Makhdumi", "Maryam" , "1992-10-13" , null ,"female"
+"Akbari", "Maryam" , "1985-12-14" , "1999-05-03" ,"female"
+"Mostafavi", "Ahmad" , "1991-07-05" , null ,"male"
+"Alemi", "Mohammad Reza" , "1999-10-16" , null ,"male"
+"Tehrani", "Ali" , "1979-06-17" , "2007-07-02" ,"male"
+"Khalilzad", "Rojin" , "1980-04-18" , null ,"female"
+"Maroofi", "Saba" , "1993-08-19" , null ,"female"
+"Baradaran", "Nushin" , "2001-06-20" , null ,"female"
+"Kaabi", "Rojin" , "1970-02-21" , "2000-11-12" ,"female"
