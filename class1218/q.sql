@@ -1,6 +1,8 @@
 -- cd "C:\Program Files\MySQL\MySQL Server 8.0\bin" 
 -- mysql.exe -u root -p 
 
+USE class1211;
+
 SELECT first_name FROM persons;
 SELECT DISTINCT first_name FROM persons;
 SELECT first_name, last_name FROM persons;
